@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>May it please your Lordship We the embroiderers, drawers and others concerned in the further improvement of East-India Silks and other goods after their importation, humbly crave leave to represent to your Lordship, that our council informs us, that the bill now before the most noble House of Peers for restraining the wearing those goods in England, subjects all noble personages as well as commoners to an indictment for wearing therof after the first of May 1697 ...</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43430</idno><idno type="EEBO-CITATION">489263215</idno>
+  <idno type="VID">208643</idno>
+  <idno type="EEBO-PROQUEST">2248520559</idno>
+  
+            <idno type="OCLC"> 489263215</idno>
+            <idno type="OCLC">ocn 489263215</idno>
+            <idno type="STC">Wing M1417C</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43430)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208643)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2955:22)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>May it please your Lordship We the embroiderers, drawers and others concerned in the further improvement of East-India Silks and other goods after their importation, humbly crave leave to represent to your Lordship, that our council informs us, that the bill now before the most noble House of Peers for restraining the wearing those goods in England, subjects all noble personages as well as commoners to an indictment for wearing therof after the first of May 1697 ...</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1697?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first lines of text.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Embroidery industry --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="petition">
+            <pb facs="tcp:208643:1"/>
+            <pb facs="tcp:208643:2"/>
+            <opener>
+               <salute>May it please your Lordship,</salute>
+            </opener>
+            <p>VVE the <hi>Embroiderers, Drawers,</hi> and others concerned in the further Improvement of <hi>East-India</hi> Silks, and other Goods after their Importation, Humbly Crave leave to represent to your Lordship, That our Council informs us, That the Bill now before the most Noble House of Peers for restraining the Wear<g ref="char:EOLhyphen"/>ing those Goods in <hi>England,</hi> Subjects all Noble Personages as well as Com<g ref="char:EOLhyphen"/>moners to an Indictment for wearing thereof after the First of <hi>May</hi> 1697. as it doth all Persons whatsoever for disposing of any of them, though long since brought in and paid for, or that shall be brought in before that day if worn or disposed of after.</p>
+            <p n="1">I. So that in Case of Death, or otherwise, your Lordship can't Sell any Furniture of a House that is <hi>Indian</hi> Wrought Silk or painted <hi>Callico,</hi> if less than Fifty Pound Value.</p>
+            <p n="2">II. And would your Lordship give it away, the Party receiving can't make use of it, nor is an <hi>Ʋpholsterer</hi> or <hi>Taylor</hi> permitted to alter it or put any <hi>English Manufacture</hi> to it: Which Furniture and Cloths in the Hands of the Nobility and Commons of <hi>England</hi> are modestly computed worth a Million of Pounds <hi>Sterling;</hi> notwithstanding which the <hi>Weavers</hi> have <gap reason="illegible" resp="#oxf" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to Address the Noble House of Peers, and Assert it is Theirs and the Nations Interest at this time to Pass the Bill, which makes all this useless, and to supply the Place with <hi>Norwich Stuffs</hi> or <hi>English Silks.</hi>
+            </p>
+            <p n="3">III. We had not at this time presumed to Address your Lordship, had the Honourable House of Commons taken the like Care which the Noble House of Peers did before the Act past for prohibiting <hi>Allamodes.</hi>
+            </p>
+            <p>It was Saturday before we knew our danger, and then about Twenty of us met together who are <hi>Embroiderers, Drawers,</hi> and others who Employ the Poor in the like way, and have the said Goods now on our Hands to upwards of One Hundred Thousand Pounds Value, one Fourth part of which we are Debtors for; and if the present restriction passes, we fear the whole quantity of Goods will yield little more than to discharge that Debt, and all the rest lost: It being reasonable to believe that People will give very little for that which they must not long enjoy.</p>
+            <p n="4">IV. Besides our selves, there are more than a Hundred Families that we know of under the like Circumstances, who though less in Fortune will suffer more severely, it taking from them their whole Subsistence.</p>
+            <p n="5">V. To Ship our Goods abroad is at present Fifty <hi>per Cent.</hi> Loss, and the time Limited for wearing them being so short prevents our Markets here. Which being so, We Humbly hope your Lordship will think it very equi<g ref="char:EOLhyphen"/>table and just, That we may have Free Liberty to dispose of the Goods bought, with our Fellow Subjects in the same Market, which are now lying on our Hands.</p>
+            <p n="6">VI. Against the Bill in General, We shall Object no further than to the Damage it may do us in diminishing our Future livelihood, and therefore most humbly intreat that the annexed particulars which are Manufactured here to an improvement equal to our highest <hi>Wrought Silks</hi> may be excepted out of the Bill. And if this Request (which we hope is very reasonable, considering it is only in Favour of our own Manufacturers) be not allow<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d; We humbly pray a Clause may be added to the Bill.</p>
+            <p>
+               <hi>That we may sell the Goods now lying on our hands after the Prohibition takes place in such Parcels as our Chapmen and Customers have occasion for, and not to be compell'd to sell no less than</hi> 50 l. <hi>Value at a time, and that only for Exportation.</hi>
+            </p>
+            <p>And, <hi>That the</hi> Weavers <hi>Seal the Goods in our hands at the Prohibition day as was done before by the</hi> Lustring <hi>Company, that so we may have the Liberty of our best Market.</hi>
+            </p>
+            <p>And if your Lordship thinks not fit to relieve us herein, we humbly Pray,</p>
+            <p>
+               <hi>That the</hi> VVeavers <hi>be obliged to take our Stocks of these Goods at prime cost and be allow'd Five years time to sell them in, they being as we conceive as fit to change their Employments, as they deem us, this their Bill giving them a favour Tantamount to the bearing such a Loss.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
